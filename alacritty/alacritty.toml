@@ -1,0 +1,7 @@
+general.live_config_reload = true
+
+general.import = ["/home/max/.cache/wal/colors-alacritty.toml"]
+
+[window.padding]
+x = 25
+y = 20
